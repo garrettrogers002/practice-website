@@ -95,6 +95,7 @@ nav ul li {
     font-size: 13px;
     text-align: center;
     padding: 5px;
+    width: 100%;
 }
 button {
     background-color: #3882F6;
@@ -126,4 +127,35 @@ button {
     position: absolute;
     right: 550px;
     font-weight: 900;
+}
+
+#inner-div {
+    background-color: #3882F6;
+    border-radius: 10px;
+    display: flex;
+    color: white;
+    margin: 100px;
+    padding: 20px 80px;
+    width: 800px;
+}
+#call-to-action {
+    font-size: 24px;
+    font-weight: 900;
+}
+#signup-button2 {
+    border: 1px solid white;
+    height: 30px;
+    margin: auto;
+}
+footer {
+    background-color: #1F2937;
+    height: 80px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#section4 {
+    display: flex;
+    justify-content: center;
 }
