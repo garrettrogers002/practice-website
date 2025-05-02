@@ -105,3 +105,25 @@ button {
     cursor: pointer;
     margin-top: 10px;
 }
+#section3 {
+    background-color: #E5E7EB;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#quote {
+    font-style: italic;
+    font-size: 36px;
+    color: #1F2937;
+    /* padding: 150px; */
+}
+#quote-container {
+    width: 800px;
+}
+#quote-attribute {
+    position: absolute;
+    right: 550px;
+    font-weight: 900;
+}
